@@ -1,8 +1,7 @@
 # 3D Modelling Project: Zombie Attack!
 
 ## Final result
-![ZombieAttackThumbnail](images/zombie-attack-thumbnail)
-Link: [Link](https://www.youtube.com/watch?v=fQO7BVK7Sro)
+[![ZombieAttackThumbnail](images/zombie-attack-thumbnail.jpg)](https://www.youtube.com/watch?v=fQO7BVK7Sro)
 
 ## Description
 Project for the subject 3D Graphics and Modelling on University College Cork. The work consist on creating a one-minute CG Animation using the open software *Blender*. The short-film will be based on a Zombie attack that occurs on the UCC Quad. Besides, there has to be an original character created from scratch.
@@ -10,25 +9,25 @@ Project for the subject 3D Graphics and Modelling on University College Cork. Th
 ## Process
 ### Modelling the character Brush
 For the purpose of the character creation, a fictional character's sketch was taken from Google. It consisted on 3 views, a front view, a lateral view and an aerial view of the hand. Those images where:
-![Frontal View](process/character-drawing-1)
-![Lateral View](process/character-drawing-2)
-![Hand View](process/character-drawing-3)
+![Frontal View](process/character-drawing-1.png)
+![Lateral View](process/character-drawing-2.png)
+![Hand View](process/character-drawing-3.jpg)
 
 The first part of the character being modelled was the head. The faces that formed this head were created according to the facial muscles, in order to ease the face animation in the future. As the human body is almost symmetric on both sides, we used the mirror modifier when modelling the body.
 
 During the process, some screenshots were taken to illustrate the process of modelling the hardest parts. Moreover, images were used as background to facilitate the creation of faces. Here there is a list of them:
 
-* Modelling Character 1: ![Modelling Character 1](process/modelling-character-1)
-* Modelling Character 2: ![Modelling Character 2](process/modelling-character-2)
-* Hand Part 1: ![Hand Part 1](process/hand-1)
-* Hand Part 2: ![Hand Part 2](process/hand-2)
-* Legs Part 1: ![Legs Part 1](process/legs-part-1)
-* Legs Part 2: ![Legs Part 2](process/legs-part-2)
-* Legs Part 3: ![Legs Part 3](process/legs-part-3)
-* Body Finished: ![Body Finished](process/body-finished)
+* Modelling Character 1: ![Modelling Character 1](process/modelling-character-1.jpg)
+* Modelling Character 2: ![Modelling Character 2](process/modelling-character-2.jpg)
+* Hand Part 1: ![Hand Part 1](process/hand-1.jpg)
+* Hand Part 2: ![Hand Part 2](process/hand-2.jpg)
+* Legs Part 1: ![Legs Part 1](process/legs-part-1.jpg)
+* Legs Part 2: ![Legs Part 2](process/legs-part-2.jpg)
+* Legs Part 3: ![Legs Part 3](process/legs-part-3.jpg)
+* Body Finished: ![Body Finished](process/body-finished.jpg)
 
 The character was smoothed using SubSurf technique. The next step was adding the texture, hair particles and clothes (shirt, belt, pants and boots). For the skin, eyes, belt and pants UV Mapping was used. All the textures can be found in [Textures](images/textures), some of them were taken from [Textures](https://www.textures.com). The final result of the character with the clothes is:
-![Body finished with clothes](process/body-with-clothes-finished)
+![Body finished with clothes](process/body-with-clothes-finished.jpg)
 
 On top of that, before designing the Storyboard, I added Inverse Kinematics to my character, allowing him to walk.
 
