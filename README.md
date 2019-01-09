@@ -9,6 +9,7 @@ Project for the subject 3D Graphics and Modelling on University College Cork. Th
 ## Process
 ### Modelling the character Brush
 For the purpose of the character creation, a fictional character's sketch was taken from Google. It consisted on 3 views, a front view, a lateral view and an aerial view of the hand. Those images where:
+
 ![Frontal View](process/character-drawing-1.png)
 ![Lateral View](process/character-drawing-2.png)
 ![Hand View](process/character-drawing-3.jpg)
@@ -27,6 +28,7 @@ During the process, some screenshots were taken to illustrate the process of mod
 * Body Finished: ![Body Finished](process/body-finished.jpg)
 
 The character was smoothed using SubSurf technique. The next step was adding the texture, hair particles and clothes (shirt, belt, pants and boots). For the skin, eyes, belt and pants UV Mapping was used. All the textures can be found in [Textures](images/textures), some of them were taken from [Textures](https://www.textures.com). The final result of the character with the clothes is:
+
 ![Body finished with clothes](process/body-with-clothes-finished.jpg)
 
 On top of that, before designing the Storyboard, I added Inverse Kinematics to my character, allowing him to walk.
