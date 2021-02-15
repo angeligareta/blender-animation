@@ -7,7 +7,7 @@
 </p>
 
 ## Description
-Project for the subject 3D Graphics and Modelling at University College Cork. The work consist on creating a one-minute CG Animation using the open software *Blender*. The short-film will be based on a Zombie attack that occurs on the UCC Quad. Besides, there has to be an original character created from scratch.
+Project for the subject 3D Graphics and Modelling at <a href="https://www.ucc.ie/en/">University College Cork</a>. The work consist on creating a one-minute CG Animation using the open software <a href="https://www.blender.org/">Blender</a>. The short-film will be based on a Zombie attack that occurs on the UCC Quad. Besides, there has to be an original character created from scratch.
 
 ## Process
 ### Modelling the character Brush
