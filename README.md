@@ -83,4 +83,9 @@ It was composed using Adobe Premiere Pro CC, where color correction, sound and v
 * Background music 2: [Background music 2](https://www.bensound.com/royalty-free-music/track/the-duel)
 
 ## Author
-- Angel Igareta ([angel@igareta.com](mailto:angel@igareta.com))
+<a href="https://angeligareta.com" alt="Angel Igareta" target="_blank">
+    <img
+      style="max-width: 420px"
+      src="https://lh3.googleusercontent.com/d/1-7cDrNCjPyKMy_RQNNschQK1Q0OAVWwz=w600"
+    />
+</a>
