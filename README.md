@@ -1,10 +1,13 @@
-# 3D Modelling Project: Zombie Attack!
+<h1 align="center">3D Modelling Project: Zombie Attack</h1>
+<h4 align="center">Final project for 3D Graphics and Modelling course at <a href="https://www.ucc.ie/en/">UCC</a></h4>
 
-## Final result
-[![ZombieAttackThumbnail](images/zombie-attack-thumbnail.jpg)](https://www.youtube.com/watch?v=fQO7BVK7Sro)
+<p align="center">
+  <img alt="UCC" src="https://img.shields.io/badge/University-College%20Cork-red?style=flat-square" />   
+  <img alt="License" src="https://img.shields.io/github/license/angeligareta/blender-animation?style=flat-square" />
+</p>
 
 ## Description
-Project for the subject 3D Graphics and Modelling on University College Cork. The work consist on creating a one-minute CG Animation using the open software *Blender*. The short-film will be based on a Zombie attack that occurs on the UCC Quad. Besides, there has to be an original character created from scratch.
+Project for the subject 3D Graphics and Modelling at University College Cork. The work consist on creating a one-minute CG Animation using the open software *Blender*. The short-film will be based on a Zombie attack that occurs on the UCC Quad. Besides, there has to be an original character created from scratch.
 
 ## Process
 ### Modelling the character Brush
@@ -53,6 +56,9 @@ The Storyboard consist on the following scenes:
 
 It was composed using Adobe Premiere Pro CC, where color correction, sound and video transitions where added.
 
+## Result
+[![ZombieAttackThumbnail](images/zombie-attack-thumbnail.jpg)](https://www.youtube.com/watch?v=fQO7BVK7Sro)
+
 ## Bibliography
 * Blender Character Modelling: [Blender Character Modelling](https://www.youtube.com/watch?v=0QT1GNMevfc)
 * Basic Walk Cycle: [Basic Walk Cycle](https://www.youtube.com/watch?v=d-wQ8nRWTBs)
@@ -77,4 +83,4 @@ It was composed using Adobe Premiere Pro CC, where color correction, sound and v
 * Background music 2: [Background music 2](https://www.bensound.com/royalty-free-music/track/the-duel)
 
 ## Author
-[Ángel Igareta](https://github.com/angeligareta)
+- Angel Igareta [angel@igareta.com](mailto:angel@igareta.com)
